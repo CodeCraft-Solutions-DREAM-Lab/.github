@@ -23,4 +23,4 @@ Asimismo, se incluyen tres **repositorios complementarios** que contienen todo e
 | Frontend | Backend | RecomendacionesDreamLab |
 |:--: | :--: | :--: |
 | Repositorio que contiene el código relacionado a las pantallas y aspectos visuales de la aplicación (colores, fondos, tipografías). | Repositorio que almacena el código relacionado a la funcionalidad y manejo de solicitudes de la aplicación. | Repositorio que gestiona la sección de recomendaciones por IA. |
-| https://github.com/CodeCraft-Solutions-DREAM-Lab/Front-End | https://github.com/CodeCraft-Solutions-DREAM-Lab/Back-End | https://github.com/CodeCraft-Solutions-DREAM-Lab/RecomendacionesDreamLab |
+| [Front-End](https://github.com/CodeCraft-Solutions-DREAM-Lab/Front-End) | [Back-End](https://github.com/CodeCraft-Solutions-DREAM-Lab/Back-End) | [RecomendacionesDreamLab](https://github.com/CodeCraft-Solutions-DREAM-Lab/RecomendacionesDreamLab) |
