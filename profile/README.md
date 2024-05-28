@@ -11,12 +11,12 @@ A continuación se presenta una serie de enlaces para conocer más información 
 
 | Sección | Descripción | Enlace |
 |--|--|--|
-| Proceso para contribuir al GitHub | Conjunto de instrucciones y procedimientos que deben de seguir los desarrolladores para realizar aportaciones al repositorio en aspectos como commits, pull requests, reporte de errores y manejo de branches. | [Enlace](https://n9.cl/8j340) |
-| Plan de Administración de la Configuración | Formato de las ramas del repositorio de GitHub y sus procesos de auditoría. | [Enlace](https://n9.cl/iq3x1) |
-| Personas involucradas | Listado de colaboradores del repositorio junto con sus respectivos roles y responsabilidades. | [Enlace](https://n9.cl/76siag) |
-| Herramientas para la gestión del proyecto | Enlaces a los documentos y herramientas utilizadas por el equipo de trabajo para el desarrollo del proyecto. | [Enlace](https://n9.cl/n1pzl) |
-| Contexto sobre el D.R.E.A.M. Lab | Descripción adicional sobre los espacios, locación y objetivos del D.R.E.A.M. Lab | [Enlace](https://n9.cl/t0tujs) |
-| Documento de diseño de sistema | Documentación detallada sobre todos los aspectos del diseño del sistema siguiendo el estandar IEEE 1016. | [Enlace](https://n9.cl/iq3x1) |
+| Proceso para contribuir al GitHub | Conjunto de instrucciones y procedimientos que deben de seguir los desarrolladores para realizar aportaciones al repositorio en aspectos como commits, pull requests, reporte de errores y manejo de branches. | [Enlace](https://n9.cl/l60me) |
+| Plan de Administración de la Configuración | Formato de las ramas del repositorio de GitHub y sus procesos de auditoría. | [Enlace](https://n9.cl/0amb4u) |
+| Personas involucradas | Listado de colaboradores del repositorio junto con sus respectivos roles y responsabilidades. | [Enlace](https://n9.cl/xagct) |
+| Herramientas para la gestión del proyecto | Enlaces a los documentos y herramientas utilizadas por el equipo de trabajo para el desarrollo del proyecto. | [Enlace](https://n9.cl/pwtgrv) |
+| Contexto sobre el D.R.E.A.M. Lab | Descripción adicional sobre los espacios, locación y objetivos del D.R.E.A.M. Lab | [Enlace](https://n9.cl/vpytuq) |
+| Documento de diseño de sistema | Documentación detallada sobre todos los aspectos del diseño del sistema siguiendo el estandar IEEE 1016. | [Enlace](https://n9.cl/0amb4u) |
 
 Asimismo, se incluyen tres **repositorios complementarios** que contienen todo el código del proyecto, esto dividido en frontend, backend y recomendaciones por IA respectivamente.
 
